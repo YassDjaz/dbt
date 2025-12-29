@@ -1,0 +1,14 @@
+# dbt generated
+logs/
+output/
+target/
+
+# Local profiles if needed
+dev.duckdb
+
+# macOS
+.DS_Store
+
+
+# dbt user config
+.user.yml
